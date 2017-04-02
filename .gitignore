@@ -1,2 +1,5 @@
 /gradle-project/.gradle/
 /gradle-project/build/
+/HelloCucumber/.gradle/
+/HelloCucumber/build/
+/HelloCucumber/.nb-gradle/
